@@ -1,7 +1,7 @@
 # Nearby-Hospital-Finder-App
 This is Nearby Hospital Finder Android App <br>
 Languages Used :- Java & Xml.
-
+<summary>Click to view</summary>
 The Nearby Hospital Finder is a valuable tool that addresses the challenges individuals face in locating nearby hospitals quickly and efficiently. The app provides a user-friendly interface, real-time information, and navigation capabilities to enhance the accessibility of healthcare services. By utilizing location-based services, users can easily identify and locate nearby hospitals based on their current location. And all the hospital names are stored in the hash list and display in the application and the data is passed by the json files. The app's comprehensive database ensures that users have access to accurate and up-to-date information about hospitals, including contact details, specialties, and user reviewsimage
 
 ![image](https://github.com/Pheonix05/Nearby-Hospital-Finder-App/assets/119280316/5dd2a639-568b-4389-9a08-048bfe29d2b8)
