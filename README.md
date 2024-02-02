@@ -1,7 +1,7 @@
 # Nearby-Hospital-Finder-App
 This is Nearby Hospital Finder Android App <br>
 
-## Languages Used :- 
+### Languages Used :- 
 - Java
 - Xml.
 
